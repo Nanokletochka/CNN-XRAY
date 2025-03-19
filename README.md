@@ -63,7 +63,7 @@ Confusion Matrix:\
 [[227   7]\
  [  3 387]]
 
-![ROC кривая обученной YOLO](imgs/ROC YOLO.png)
+![ROC кривая обученной YOLO](imgs/ROC_YOLO.png)
  
 **Моя модель:**\
 Оптимальный порог классификации: 0.4263\
